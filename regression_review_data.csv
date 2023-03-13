@@ -1,0 +1,729 @@
+ID,AGE,SEX,RACE,INCOME,SCHOOL,HOURS,MARITAL,PRESTIGE,CHILDREN,EARNERS,HAPPINESS
+2,48,male,other,82500,20,40,married,65,2,2,pretty happy
+3,47,male,black,45000,13,35,married,50,1,1,pretty happy
+5,37,female,black,32500,12,43,separated,42,2,1,pretty happy
+11,62,male,black,45000,17,45,married,69,2,2,pretty happy
+12,40,male,black,120000,19,40,never married,59,0,1,not too happy
+17,26,male,white,37500,15,55,never married,38,0,2,pretty happy
+20,37,male,other,27500,14,40,married,42,2,2,not too happy
+22,61,female,white,32500,12,35,divorced,42,3,2,pretty happy
+27,32,male,black,37500,14,40,separated,22,2,1,pretty happy
+28,42,male,other,200000,18,50,never married,65,0,2,pretty happy
+29,41,male,black,55000,14,80,separated,51,5,1,pretty happy
+36,37,female,white,82500,16,50,never married,51,0,1,pretty happy
+46,38,male,other,120000,18,45,married,51,2,1,very happy
+47,55,female,white,100000,20,60,never married,69,0,1,pretty happy
+48,39,female,white,23750,16,32,married,44,2,2,very happy
+51,60,female,white,45000,16,32,married,49,2,2,pretty happy
+52,34,female,white,200000,14,30,married,49,2,2,very happy
+55,42,female,white,37500,16,40,married,40,2,2,pretty happy
+56,25,male,black,27500,17,46,never married,38,0,3,pretty happy
+57,50,male,black,120000,16,30,divorced,49,2,1,pretty happy
+60,27,male,black,27500,14,55,never married,39,0,2,pretty happy
+64,43,male,other,23750,9,40,never married,51,2,1,pretty happy
+74,61,male,white,45000,12,40,widowed,30,2,1,pretty happy
+78,35,female,white,67500,12,43,never married,59,1,2,not too happy
+79,39,female,white,45000,14,45,divorced,51,3,1,pretty happy
+83,50,male,black,45000,16,40,divorced,74,0,2,not too happy
+90,43,male,white,200000,16,60,married,53,2,2,pretty happy
+91,33,male,white,37500,15,40,never married,45,0,1,pretty happy
+94,57,male,white,200000,15,30,married,47,2,2,pretty happy
+95,29,male,white,120000,16,65,never married,53,0,1,pretty happy
+97,48,female,white,67500,18,45,married,74,1,2,pretty happy
+100,44,female,white,45000,15,40,married,47,3,5,pretty happy
+101,63,female,white,67500,12,40,divorced,46,4,1,not too happy
+108,41,female,white,67500,18,37,married,60,3,3,pretty happy
+110,60,female,white,120000,12,50,widowed,44,2,1,pretty happy
+115,56,male,white,82500,13,40,married,54,3,5,pretty happy
+116,48,female,white,55000,16,48,divorced,65,3,2,pretty happy
+120,62,female,white,200000,20,50,married,51,2,1,very happy
+122,52,female,white,67500,18,30,married,61,0,1,pretty happy
+123,34,female,other,82500,16,45,never married,61,0,1,very happy
+124,27,male,white,100000,18,65,married,54,0,2,very happy
+126,24,male,other,23750,11,60,never married,39,2,4,pretty happy
+129,41,male,white,82500,12,40,married,38,2,2,very happy
+130,24,female,white,21250,15,45,never married,47,0,2,very happy
+132,47,male,white,23750,12,35,married,39,1,3,pretty happy
+133,40,male,white,67500,12,45,married,59,2,2,very happy
+135,27,male,white,82500,16,50,never married,48,0,1,very happy
+136,61,male,white,100000,18,42,married,74,3,2,pretty happy
+137,47,male,white,100000,14,50,divorced,59,2,2,pretty happy
+139,45,female,white,67500,16,65,never married,54,2,2,very happy
+141,27,female,other,45000,14,38,never married,45,0,1,pretty happy
+145,36,female,white,55000,13,40,married,39,3,2,very happy
+146,30,female,other,82500,16,40,married,59,0,2,very happy
+148,46,female,white,55000,12,60,divorced,32,2,1,pretty happy
+150,28,male,other,27500,13,40,never married,30,2,2,pretty happy
+161,49,female,other,27500,9,40,married,28,4,2,pretty happy
+162,50,male,white,21250,3,56,married,22,2,2,pretty happy
+178,46,female,black,23750,19,40,never married,40,0,1,not too happy
+181,40,female,white,32500,13,40,married,59,2,3,very happy
+182,56,female,white,27500,13,40,married,24,3,2,not too happy
+183,37,male,white,55000,13,50,married,51,5,2,pretty happy
+187,53,male,white,82500,18,50,married,60,0,2,pretty happy
+188,51,male,white,45000,16,40,never married,36,0,1,pretty happy
+189,43,male,white,45000,14,60,never married,44,0,1,not too happy
+190,49,female,white,67500,15,40,never married,33,1,1,not too happy
+191,55,female,other,37500,16,40,married,51,2,3,pretty happy
+196,41,female,black,32500,16,46,married,61,3,1,very happy
+212,33,female,white,82500,16,41,never married,65,0,1,pretty happy
+214,37,male,white,82500,19,45,married,74,1,2,very happy
+216,59,male,white,120000,14,73,divorced,42,1,1,pretty happy
+218,53,female,white,67500,16,40,divorced,52,1,3,pretty happy
+220,56,male,white,45000,12,52,married,22,4,2,very happy
+222,55,male,white,55000,19,45,married,74,1,2,pretty happy
+227,40,male,white,82500,14,43,married,51,0,2,pretty happy
+231,45,male,white,67500,15,47,married,41,2,2,pretty happy
+233,57,male,white,45000,8,40,divorced,22,0,1,pretty happy
+235,54,male,white,55000,12,68,married,35,3,5,pretty happy
+236,63,male,white,27500,12,40,married,33,3,1,pretty happy
+237,60,female,black,67500,12,40,separated,63,1,1,pretty happy
+240,49,male,black,45000,14,50,married,71,0,2,pretty happy
+243,57,female,white,45000,12,40,married,51,0,2,very happy
+244,37,male,white,82500,15,80,married,47,4,2,pretty happy
+245,35,female,white,67500,12,60,married,30,1,1,pretty happy
+246,45,male,white,27500,10,40,divorced,34,3,1,not too happy
+250,47,male,black,82500,13,50,married,30,2,3,pretty happy
+252,48,male,white,100000,16,42,never married,71,0,2,pretty happy
+253,42,male,other,200000,16,50,married,64,3,1,pretty happy
+254,37,male,white,55000,13,48,married,41,4,3,pretty happy
+256,49,male,white,23750,12,52,married,51,3,4,not too happy
+257,33,male,other,45000,13,40,never married,30,3,2,very happy
+258,43,male,white,200000,16,60,divorced,51,1,1,pretty happy
+261,47,female,other,45000,13,30,married,47,2,2,pretty happy
+264,46,male,white,21250,12,48,married,40,0,2,not too happy
+270,41,male,other,200000,17,89,married,47,2,2,pretty happy
+272,36,male,white,200000,16,60,divorced,39,2,1,pretty happy
+274,28,female,white,67500,6,48,never married,36,1,2,pretty happy
+276,39,male,other,67500,15,89,married,51,1,2,very happy
+277,44,female,white,82500,12,40,married,65,2,2,pretty happy
+278,39,female,white,67500,14,50,married,41,1,2,very happy
+279,30,female,white,32500,16,75,married,58,0,2,very happy
+280,46,male,white,67500,14,56,married,61,2,2,pretty happy
+282,33,female,white,37500,20,66,never married,41,0,1,pretty happy
+283,61,male,white,100000,20,48,married,64,2,1,pretty happy
+290,53,male,white,120000,14,85,married,37,2,1,very happy
+291,44,male,white,37500,6,40,married,42,3,2,very happy
+292,30,male,white,67500,12,60,never married,44,0,1,pretty happy
+295,33,male,white,27500,14,30,married,46,4,2,not too happy
+298,47,male,white,120000,14,40,divorced,51,2,1,pretty happy
+300,32,male,white,55000,16,60,never married,49,0,1,pretty happy
+302,63,male,white,67500,13,50,never married,39,0,2,not too happy
+305,32,female,black,37500,14,40,divorced,40,1,1,pretty happy
+310,57,female,black,67500,12,47,married,47,1,2,very happy
+312,42,female,black,37500,13,50,separated,27,4,1,pretty happy
+315,46,male,other,67500,16,45,married,50,4,2,pretty happy
+316,43,female,black,55000,18,40,divorced,52,1,1,pretty happy
+323,49,female,white,67500,20,35,married,64,1,2,pretty happy
+325,38,male,other,55000,11,40,never married,36,0,2,pretty happy
+327,50,female,white,45000,16,40,married,51,2,4,pretty happy
+337,56,male,other,37500,16,40,married,31,3,2,pretty happy
+341,51,male,white,37500,16,40,married,64,1,2,pretty happy
+342,52,female,white,45000,18,44,divorced,48,0,1,pretty happy
+347,44,female,black,21250,10,70,separated,47,1,1,not too happy
+350,50,male,white,21250,12,45,never married,31,0,1,pretty happy
+352,52,female,black,55000,13,70,married,60,1,4,not too happy
+353,45,male,black,23750,16,45,married,33,1,2,pretty happy
+357,28,female,black,32500,12,45,never married,31,1,2,pretty happy
+361,60,female,black,27500,15,38,married,46,2,2,pretty happy
+362,49,male,other,32500,14,40,married,49,2,2,not too happy
+363,47,female,black,45000,14,30,married,69,0,2,very happy
+365,31,female,black,27500,12,65,separated,51,1,2,pretty happy
+377,43,male,black,45000,16,30,never married,48,2,1,pretty happy
+378,48,male,white,21250,17,50,divorced,51,0,1,pretty happy
+388,53,male,white,55000,16,80,never married,66,0,1,pretty happy
+390,63,female,white,45000,17,32,divorced,34,2,1,pretty happy
+395,28,female,black,21250,12,42,married,31,1,2,very happy
+398,25,female,white,55000,15,48,never married,51,0,2,pretty happy
+403,45,male,white,67500,14,60,divorced,60,2,1,very happy
+407,41,female,white,21250,12,50,divorced,29,3,2,very happy
+409,28,male,white,32500,11,40,divorced,39,2,1,pretty happy
+417,56,female,white,45000,15,80,divorced,74,3,1,very happy
+418,49,male,white,23750,15,40,married,51,4,2,pretty happy
+420,38,male,white,27500,12,60,never married,25,0,1,pretty happy
+429,62,female,black,32500,12,40,divorced,49,2,2,pretty happy
+437,53,male,white,120000,19,70,married,74,0,1,not too happy
+438,35,male,white,120000,16,50,never married,33,0,1,very happy
+440,29,male,white,45000,16,40,never married,32,0,2,pretty happy
+441,30,male,white,140000,12,45,never married,54,0,1,pretty happy
+444,57,female,white,100000,18,50,divorced,51,3,1,very happy
+454,60,male,white,120000,16,45,married,46,3,2,pretty happy
+458,39,male,other,200000,17,40,married,74,1,2,pretty happy
+459,31,female,white,82500,16,40,married,49,0,2,pretty happy
+460,44,male,white,120000,18,40,married,48,1,2,pretty happy
+462,36,female,white,37500,13,40,married,52,2,2,pretty happy
+464,31,male,white,45000,17,43,married,33,2,2,pretty happy
+466,37,male,white,27500,9,50,divorced,29,3,3,very happy
+468,56,male,white,120000,16,44,married,44,1,3,very happy
+469,56,male,white,200000,16,40,married,66,2,2,pretty happy
+470,31,male,white,55000,17,70,married,66,0,2,pretty happy
+471,29,male,white,67500,18,40,never married,72,0,1,pretty happy
+476,60,male,white,37500,16,40,divorced,51,2,1,not too happy
+478,33,male,other,21250,13,30,never married,29,2,1,pretty happy
+480,54,female,white,67500,14,45,married,38,1,2,pretty happy
+482,40,male,other,32500,15,40,divorced,51,3,4,pretty happy
+486,31,female,black,23750,13,40,separated,38,1,2,not too happy
+488,28,female,black,27500,16,32,married,42,0,1,not too happy
+489,39,male,white,200000,16,50,married,65,3,2,pretty happy
+492,65,male,white,100000,12,45,married,49,3,1,very happy
+502,42,female,other,37500,8,40,married,30,3,3,pretty happy
+508,47,male,white,82500,16,48,married,64,2,3,pretty happy
+509,46,male,white,45000,15,48,divorced,51,1,1,pretty happy
+510,46,male,white,200000,16,50,married,51,2,2,pretty happy
+511,31,male,other,37500,14,42,never married,35,1,3,pretty happy
+514,57,female,white,55000,16,40,divorced,66,2,1,not too happy
+515,38,female,white,100000,18,40,divorced,49,1,1,pretty happy
+516,45,female,white,82500,14,70,married,31,2,4,very happy
+519,45,female,white,55000,18,40,married,64,4,3,pretty happy
+521,37,female,other,200000,20,32,divorced,86,2,1,very happy
+529,27,female,black,27500,16,40,married,52,1,2,not too happy
+532,51,male,white,100000,16,50,married,72,5,1,very happy
+533,51,female,white,32500,15,40,married,47,0,2,pretty happy
+534,25,male,white,23750,13,40,married,45,0,2,pretty happy
+538,26,male,white,23750,8,56,never married,30,0,1,not too happy
+540,62,male,white,45000,12,40,married,32,2,2,pretty happy
+548,49,male,black,55000,13,47,divorced,30,2,1,not too happy
+549,33,female,white,27500,12,60,divorced,32,2,1,not too happy
+560,26,female,other,45000,14,47,never married,51,0,1,pretty happy
+563,23,male,other,37500,12,60,never married,40,1,1,pretty happy
+564,29,male,white,27500,12,35,never married,30,0,1,pretty happy
+566,37,female,white,23750,17,38,divorced,29,0,1,not too happy
+567,61,male,white,67500,18,44,married,61,2,1,pretty happy
+569,53,male,black,55000,12,70,separated,30,6,2,very happy
+577,44,male,white,200000,16,75,divorced,50,1,1,pretty happy
+578,26,male,white,55000,11,30,never married,19,2,2,not too happy
+580,33,male,black,23750,15,40,married,50,4,2,pretty happy
+583,36,male,white,37500,16,40,divorced,32,2,3,pretty happy
+588,35,male,white,32500,17,55,married,66,3,2,very happy
+593,51,male,white,55000,15,40,never married,51,0,1,not too happy
+596,53,male,white,45000,12,45,never married,57,0,2,pretty happy
+598,50,male,white,82500,18,45,married,41,3,4,very happy
+599,53,female,white,67500,16,35,married,49,2,1,pretty happy
+601,46,male,white,120000,19,50,married,51,2,2,pretty happy
+602,23,male,white,45000,14,43,never married,51,0,2,pretty happy
+611,41,female,white,32500,12,40,married,51,2,3,pretty happy
+614,34,male,white,23750,16,40,married,30,1,2,pretty happy
+617,56,male,white,67500,13,50,married,30,2,2,very happy
+618,44,male,white,32500,12,45,married,30,3,2,pretty happy
+619,56,male,white,45000,13,46,divorced,36,2,1,pretty happy
+621,48,female,white,67500,16,36,married,66,3,2,very happy
+622,41,male,black,27500,12,64,separated,27,3,1,not too happy
+625,52,male,white,82500,12,45,never married,32,0,1,very happy
+628,56,male,white,32500,12,40,married,30,2,2,very happy
+629,61,male,white,32500,20,44,married,69,3,2,very happy
+630,59,female,white,23750,12,40,married,48,2,2,very happy
+633,56,female,white,45000,14,46,married,51,2,2,pretty happy
+638,41,female,white,55000,16,40,divorced,51,2,1,pretty happy
+641,51,male,white,82500,14,50,married,60,0,2,very happy
+645,58,female,white,45000,18,50,married,66,1,3,very happy
+653,22,male,white,82500,15,60,married,36,3,3,very happy
+658,34,male,white,23750,16,40,married,61,0,2,pretty happy
+659,46,female,black,45000,19,38,divorced,66,1,1,not too happy
+666,63,male,white,32500,18,30,divorced,31,1,1,not too happy
+667,55,male,white,82500,17,40,married,61,2,2,pretty happy
+671,35,female,white,45000,14,40,married,32,2,2,pretty happy
+674,31,female,white,100000,18,60,never married,49,0,1,very happy
+676,28,female,other,45000,20,80,never married,86,0,1,pretty happy
+681,45,female,black,23750,12,40,married,42,3,2,pretty happy
+687,28,female,other,37500,14,40,never married,59,0,4,pretty happy
+690,23,female,black,27500,14,40,never married,49,0,1,pretty happy
+691,45,male,other,120000,19,40,married,74,2,2,pretty happy
+692,48,female,white,120000,16,34,married,75,2,2,very happy
+693,43,male,other,200000,18,40,married,51,1,1,pretty happy
+694,23,male,white,45000,16,40,never married,51,0,1,very happy
+695,34,male,other,55000,12,40,never married,61,0,1,pretty happy
+698,43,male,white,55000,15,60,never married,54,0,1,pretty happy
+702,52,male,white,200000,14,40,married,22,3,2,very happy
+705,48,male,white,100000,16,50,widowed,48,0,1,pretty happy
+711,44,female,white,82500,15,45,divorced,48,3,1,very happy
+714,38,male,white,67500,16,40,married,47,2,2,pretty happy
+716,56,male,white,120000,14,50,married,51,2,1,pretty happy
+717,47,female,white,21250,18,40,married,55,2,4,pretty happy
+720,25,male,white,55000,16,50,never married,74,0,1,pretty happy
+721,50,male,white,100000,14,50,married,48,2,3,very happy
+722,48,male,white,67500,12,62,never married,53,0,1,not too happy
+723,51,female,white,45000,12,50,divorced,59,3,1,pretty happy
+728,43,male,white,55000,12,40,married,45,2,1,pretty happy
+729,27,male,white,55000,16,50,married,51,1,2,very happy
+730,41,male,white,23750,12,55,never married,28,1,1,pretty happy
+733,48,male,white,37500,12,40,divorced,47,3,1,pretty happy
+734,30,female,white,32500,13,40,separated,42,4,1,pretty happy
+736,48,male,white,67500,16,55,married,32,1,3,very happy
+740,52,female,white,37500,12,45,married,44,3,3,pretty happy
+744,32,male,white,45000,14,50,married,44,0,3,pretty happy
+747,28,male,white,67500,16,60,never married,51,0,1,pretty happy
+748,64,female,white,45000,16,40,divorced,47,2,1,pretty happy
+762,37,male,black,67500,16,70,married,69,1,2,very happy
+763,53,male,black,37500,16,30,separated,52,3,1,pretty happy
+765,45,male,white,67500,12,80,divorced,42,2,1,very happy
+767,47,female,white,82500,19,37,never married,75,0,1,pretty happy
+770,48,male,white,200000,12,80,married,51,0,2,very happy
+772,44,male,white,55000,16,32,separated,51,2,2,pretty happy
+775,46,male,white,55000,16,50,married,36,0,2,pretty happy
+783,52,female,white,100000,18,50,married,51,2,3,pretty happy
+794,50,male,white,32500,14,50,never married,38,0,1,pretty happy
+797,59,male,white,37500,14,56,never married,69,0,1,pretty happy
+804,33,male,white,55000,16,45,married,62,1,2,pretty happy
+805,46,female,white,21250,12,40,married,57,0,2,pretty happy
+806,55,female,white,45000,12,35,never married,47,0,1,pretty happy
+807,35,female,white,45000,16,50,married,65,2,4,pretty happy
+808,40,male,white,45000,14,55,married,32,1,1,very happy
+810,60,male,white,67500,12,40,married,60,3,2,pretty happy
+815,25,female,white,55000,16,42,never married,65,0,1,pretty happy
+817,54,male,other,67500,16,50,divorced,71,2,1,very happy
+818,60,female,white,23750,14,56,married,46,2,1,pretty happy
+821,63,male,white,55000,14,40,married,39,2,2,not too happy
+826,60,female,white,55000,17,40,never married,64,0,1,pretty happy
+831,60,female,white,23750,12,45,married,68,4,2,not too happy
+842,31,female,white,27500,13,40,married,31,2,2,very happy
+843,40,male,white,37500,14,50,married,42,3,3,pretty happy
+845,26,female,white,27500,14,40,married,36,2,2,very happy
+850,39,male,white,82500,15,80,married,51,1,2,very happy
+852,51,male,white,55000,12,50,married,30,1,2,pretty happy
+853,38,female,white,23750,13,58,divorced,51,2,1,pretty happy
+858,61,female,white,45000,16,36,divorced,66,1,1,pretty happy
+882,56,male,white,200000,20,40,married,50,2,2,pretty happy
+887,50,female,white,23750,12,40,divorced,27,2,1,pretty happy
+891,27,male,white,32500,13,45,never married,30,0,1,pretty happy
+892,48,male,white,23750,12,70,married,51,4,3,very happy
+893,25,male,white,45000,12,45,married,51,0,2,very happy
+894,48,male,white,32500,11,40,married,42,0,2,pretty happy
+900,45,male,white,32500,12,43,divorced,42,0,1,pretty happy
+906,51,female,white,21250,12,40,divorced,47,1,1,pretty happy
+907,22,female,white,27500,12,42,never married,39,0,1,not too happy
+908,36,male,white,55000,12,40,never married,30,1,1,pretty happy
+910,29,male,white,32500,16,45,married,51,2,2,pretty happy
+912,47,male,white,100000,16,50,married,51,2,2,pretty happy
+913,50,female,white,67500,15,60,divorced,51,1,1,very happy
+918,34,female,white,45000,16,45,married,61,2,2,very happy
+920,48,female,white,32500,12,40,never married,42,0,1,not too happy
+929,41,male,white,100000,18,50,married,51,3,1,very happy
+931,44,male,white,45000,10,48,never married,47,0,5,pretty happy
+933,34,female,other,100000,18,40,married,61,1,2,pretty happy
+934,57,male,white,200000,20,45,widowed,62,0,1,pretty happy
+935,51,male,white,27500,14,45,married,27,2,2,very happy
+947,24,male,white,23750,12,40,never married,39,0,2,pretty happy
+949,46,male,white,82500,15,65,married,60,1,2,very happy
+952,43,female,other,100000,19,60,married,61,1,3,very happy
+954,55,female,white,82500,16,40,married,73,0,2,pretty happy
+957,60,female,white,27500,13,40,divorced,61,2,1,pretty happy
+959,28,male,white,32500,16,45,never married,47,0,1,pretty happy
+965,57,male,white,55000,16,45,divorced,74,0,1,pretty happy
+968,54,male,white,32500,18,48,widowed,32,1,1,pretty happy
+969,50,male,white,37500,12,40,divorced,52,0,1,pretty happy
+976,56,male,white,32500,12,32,married,33,3,2,very happy
+977,58,male,white,55000,16,42,married,28,2,2,pretty happy
+988,37,female,white,45000,16,50,never married,66,0,1,very happy
+996,59,female,white,37500,13,48,married,51,2,2,not too happy
+999,41,male,white,82500,12,60,divorced,59,2,2,pretty happy
+1000,28,female,white,45000,13,52,divorced,31,2,1,pretty happy
+1001,47,female,white,32500,14,35,married,49,2,2,pretty happy
+1003,46,female,white,45000,18,47,never married,51,0,2,pretty happy
+1005,52,male,white,100000,12,74,married,45,3,2,very happy
+1008,58,female,white,37500,12,32,married,31,3,2,very happy
+1013,38,male,white,23750,12,46,married,33,2,1,not too happy
+1014,55,female,white,23750,12,40,divorced,41,2,1,pretty happy
+1016,38,male,white,23750,11,40,never married,35,0,2,pretty happy
+1017,59,male,white,55000,18,48,married,49,2,3,pretty happy
+1023,57,male,white,100000,19,50,married,75,5,3,very happy
+1025,62,male,white,140000,17,50,married,64,4,2,pretty happy
+1026,37,female,other,82500,17,40,married,61,2,2,pretty happy
+1029,52,male,white,27500,12,44,never married,24,2,1,not too happy
+1030,44,female,white,67500,13,46,divorced,51,4,2,very happy
+1031,54,male,white,55000,16,50,married,50,3,3,pretty happy
+1033,51,female,white,27500,12,40,married,35,5,2,very happy
+1034,34,female,white,27500,17,40,never married,39,0,1,pretty happy
+1039,31,female,black,27500,13,48,never married,33,2,1,very happy
+1043,31,female,white,32500,15,40,married,41,3,2,very happy
+1045,61,female,white,55000,17,45,never married,57,0,1,pretty happy
+1052,57,female,white,23750,12,40,married,33,2,2,not too happy
+1053,29,male,white,55000,12,49,never married,27,1,2,pretty happy
+1054,54,male,white,82500,10,60,married,33,3,1,very happy
+1058,26,female,white,21250,16,40,married,51,0,2,pretty happy
+1065,45,male,black,45000,12,43,never married,27,2,1,pretty happy
+1068,35,male,white,45000,13,48,married,59,3,2,pretty happy
+1076,42,male,white,67500,10,50,divorced,47,4,1,pretty happy
+1079,47,male,white,45000,12,40,divorced,38,2,1,pretty happy
+1081,40,male,white,45000,16,40,never married,60,1,1,pretty happy
+1082,65,female,white,21250,12,40,married,31,2,2,pretty happy
+1083,23,male,black,21250,13,50,never married,49,0,1,pretty happy
+1086,37,male,black,23750,12,40,married,36,2,2,pretty happy
+1096,44,female,white,55000,16,40,married,60,3,3,pretty happy
+1101,49,male,white,45000,14,46,married,60,6,4,pretty happy
+1102,59,female,white,45000,14,40,married,33,0,1,pretty happy
+1103,39,male,white,100000,14,65,married,59,2,2,very happy
+1104,61,female,white,45000,12,32,divorced,60,3,3,pretty happy
+1108,39,female,white,67500,17,70,married,58,1,2,very happy
+1109,49,male,white,200000,12,50,married,51,4,5,very happy
+1112,41,male,white,27500,14,52,divorced,49,2,2,pretty happy
+1114,51,male,white,55000,14,40,married,51,1,2,pretty happy
+1116,55,female,black,32500,12,40,married,42,3,2,pretty happy
+1118,50,male,black,27500,14,46,married,30,8,2,pretty happy
+1121,23,female,black,21250,13,40,never married,42,0,1,pretty happy
+1123,60,female,black,37500,12,50,never married,36,0,1,very happy
+1130,27,male,black,32500,14,49,never married,42,3,1,pretty happy
+1133,55,female,black,21250,13,40,divorced,55,4,2,pretty happy
+1136,23,male,white,27500,14,40,never married,25,0,1,pretty happy
+1138,35,female,black,45000,15,60,married,59,3,3,pretty happy
+1139,65,male,white,23750,18,40,married,51,2,2,very happy
+1142,50,female,white,55000,16,40,divorced,73,2,1,very happy
+1144,37,male,black,23750,10,43,married,69,0,1,very happy
+1151,46,male,black,32500,15,42,never married,42,3,2,very happy
+1156,38,male,white,55000,20,40,never married,47,0,1,pretty happy
+1157,64,male,white,67500,16,60,married,34,3,2,pretty happy
+1160,43,male,black,55000,16,40,widowed,62,2,1,not too happy
+1161,51,male,white,45000,20,40,never married,66,1,1,very happy
+1166,35,male,black,45000,12,60,widowed,30,3,1,not too happy
+1173,30,female,white,45000,19,40,never married,47,0,1,pretty happy
+1178,36,female,white,82500,9,36,married,66,2,2,very happy
+1182,36,female,black,27500,12,50,married,40,2,2,pretty happy
+1184,29,male,black,45000,12,50,never married,30,0,2,very happy
+1186,58,male,black,120000,19,89,married,74,3,5,very happy
+1189,36,male,white,200000,20,60,married,72,1,2,pretty happy
+1190,39,male,white,100000,16,60,divorced,48,1,1,very happy
+1194,50,male,other,82500,16,60,married,51,2,2,pretty happy
+1196,33,male,white,120000,15,70,divorced,59,0,1,pretty happy
+1198,33,male,black,100000,12,40,married,37,4,1,pretty happy
+1200,54,male,white,45000,13,40,married,27,1,2,very happy
+1202,33,male,white,55000,18,40,married,22,2,2,pretty happy
+1203,64,male,white,45000,12,42,married,51,4,2,very happy
+1204,47,male,white,67500,12,59,married,30,1,2,pretty happy
+1205,48,female,white,55000,12,30,married,51,1,2,very happy
+1206,33,female,white,45000,18,40,married,43,0,2,very happy
+1209,61,male,black,32500,10,46,married,33,1,3,very happy
+1211,43,male,black,27500,9,40,married,30,6,2,pretty happy
+1213,44,female,white,27500,12,37,married,45,1,2,pretty happy
+1215,54,female,white,82500,16,40,married,63,0,2,very happy
+1217,36,female,white,23750,12,30,married,51,4,2,very happy
+1220,50,female,white,67500,17,40,separated,66,1,1,not too happy
+1221,46,male,white,100000,20,55,married,69,4,3,very happy
+1222,32,male,white,55000,16,65,married,51,3,1,very happy
+1223,41,female,white,27500,14,40,divorced,46,2,1,pretty happy
+1225,42,male,white,45000,16,74,widowed,53,0,1,pretty happy
+1228,46,female,white,67500,16,40,never married,75,0,1,pretty happy
+1230,42,male,other,100000,18,45,married,75,2,4,pretty happy
+1235,53,male,other,55000,16,40,married,64,3,2,not too happy
+1236,30,male,other,32500,8,44,divorced,51,2,1,not too happy
+1239,40,male,white,82500,12,44,married,40,2,1,very happy
+1243,28,male,other,37500,16,45,never married,64,0,3,very happy
+1247,44,female,white,55000,7,64,never married,42,6,2,pretty happy
+1252,23,female,white,27500,12,46,never married,51,1,1,pretty happy
+1253,45,female,black,23750,12,45,married,17,3,1,very happy
+1254,43,female,white,67500,20,40,never married,62,0,1,not too happy
+1255,36,female,black,55000,14,38,married,45,3,2,pretty happy
+1259,60,male,white,55000,12,50,married,32,5,2,pretty happy
+1260,41,male,white,120000,13,50,married,51,2,3,very happy
+1262,24,male,white,55000,12,51,never married,45,0,1,not too happy
+1266,46,male,white,45000,12,40,married,36,2,2,very happy
+1267,24,male,white,55000,12,60,never married,30,0,1,very happy
+1269,36,male,white,27500,13,48,married,49,0,2,very happy
+1270,65,female,white,45000,20,50,widowed,74,3,1,pretty happy
+1271,30,male,white,32500,15,40,married,51,0,2,very happy
+1274,37,male,white,55000,12,60,married,34,1,2,very happy
+1277,38,male,white,45000,12,52,married,30,2,2,pretty happy
+1278,59,female,white,23750,14,36,divorced,51,2,1,very happy
+1286,41,male,white,37500,13,40,never married,31,0,1,pretty happy
+1289,48,male,white,23750,14,40,divorced,34,0,1,pretty happy
+1290,39,male,white,37500,12,40,never married,30,0,1,very happy
+1291,35,male,white,45000,14,45,divorced,47,2,1,not too happy
+1294,26,female,other,32500,12,40,never married,46,2,1,not too happy
+1297,41,female,white,32500,18,30,married,65,2,2,very happy
+1299,56,male,white,37500,10,42,married,36,2,3,pretty happy
+1301,65,female,white,37500,14,40,married,41,3,1,pretty happy
+1306,32,male,white,67500,14,40,never married,33,0,1,pretty happy
+1308,33,female,white,23750,11,45,married,51,4,2,pretty happy
+1309,34,male,white,45000,12,70,never married,34,0,1,pretty happy
+1311,39,male,white,82500,18,65,married,41,0,2,pretty happy
+1312,29,male,white,21250,14,40,never married,27,0,1,pretty happy
+1318,61,female,white,23750,15,35,widowed,31,3,1,pretty happy
+1322,34,male,other,37500,11,64,married,39,3,2,very happy
+1324,38,male,white,55000,12,40,married,39,0,2,pretty happy
+1328,55,male,white,45000,5,64,married,30,4,2,very happy
+1335,54,female,white,21250,12,40,separated,31,2,2,pretty happy
+1338,30,male,white,67500,18,30,never married,71,0,1,very happy
+1339,27,male,white,32500,14,59,never married,42,0,2,very happy
+1340,57,female,white,67500,14,40,married,51,2,2,pretty happy
+1342,37,female,white,200000,20,40,separated,50,2,2,pretty happy
+1345,57,male,white,67500,14,45,married,47,3,3,pretty happy
+1346,23,male,white,37500,16,42,never married,69,0,4,pretty happy
+1348,38,male,white,45000,12,67,married,51,3,2,very happy
+1356,31,male,white,37500,14,30,never married,47,0,1,pretty happy
+1358,40,male,white,67500,12,50,married,47,2,1,pretty happy
+1359,46,male,white,55000,17,55,divorced,60,1,1,pretty happy
+1362,61,female,white,37500,12,40,married,51,3,1,pretty happy
+1363,54,female,white,82500,16,40,never married,66,0,1,pretty happy
+1371,49,female,white,23750,11,36,divorced,32,3,2,pretty happy
+1372,37,female,white,67500,12,37,separated,47,3,2,pretty happy
+1375,61,male,white,45000,10,62,married,36,3,1,pretty happy
+1380,48,male,black,37500,14,40,never married,69,1,1,very happy
+1382,33,male,white,27500,12,50,never married,48,0,2,very happy
+1383,43,male,other,200000,14,50,divorced,51,2,3,very happy
+1392,53,male,white,67500,13,40,widowed,31,0,1,pretty happy
+1394,40,male,white,100000,16,40,never married,62,0,1,pretty happy
+1396,31,female,white,45000,15,56,never married,49,0,2,pretty happy
+1397,50,female,white,67500,18,40,married,64,1,2,pretty happy
+1398,44,male,white,67500,16,50,married,34,1,2,pretty happy
+1401,38,male,white,82500,15,45,married,51,1,2,very happy
+1404,47,male,white,32500,20,32,divorced,62,1,1,pretty happy
+1405,28,female,white,21250,12,40,divorced,39,0,1,pretty happy
+1408,30,male,white,67500,18,60,never married,48,0,1,pretty happy
+1409,40,male,white,27500,14,40,married,24,1,3,pretty happy
+1413,48,female,white,55000,18,40,never married,66,0,1,pretty happy
+1417,50,male,white,23750,9,60,married,23,5,2,not too happy
+1422,44,male,other,32500,13,50,married,51,1,2,very happy
+1431,45,female,white,120000,18,50,married,52,0,2,pretty happy
+1440,40,male,white,67500,17,44,married,60,3,2,very happy
+1442,31,male,other,67500,8,46,never married,39,0,1,pretty happy
+1446,49,male,other,27500,12,40,married,49,2,2,pretty happy
+1447,42,male,other,45000,16,40,never married,64,2,1,very happy
+1448,47,female,other,55000,20,40,married,66,3,3,very happy
+1449,58,male,other,67500,16,50,married,51,1,2,very happy
+1452,29,male,white,55000,20,40,married,74,0,2,very happy
+1456,29,male,other,45000,15,72,married,53,2,3,pretty happy
+1462,54,female,white,82500,18,45,never married,51,1,3,pretty happy
+1463,59,male,white,82500,12,40,married,39,2,2,not too happy
+1467,53,female,white,37500,18,64,divorced,64,3,1,pretty happy
+1468,51,female,white,45000,14,35,married,34,3,3,very happy
+1473,46,female,white,21250,16,40,separated,31,1,1,pretty happy
+1477,57,female,white,45000,15,35,married,46,2,3,pretty happy
+1478,56,male,white,200000,16,60,married,64,5,2,very happy
+1479,57,female,black,45000,16,38,divorced,66,1,1,pretty happy
+1481,62,female,white,45000,12,42,married,35,2,1,pretty happy
+1483,52,male,white,45000,12,70,married,36,2,2,not too happy
+1487,52,female,white,27500,13,41,married,32,0,2,very happy
+1489,52,female,white,23750,12,40,married,35,2,2,pretty happy
+1490,28,male,white,32500,12,50,never married,37,0,2,pretty happy
+1492,61,male,white,45000,14,62,divorced,30,1,1,not too happy
+1498,28,male,white,55000,16,60,married,34,1,2,very happy
+1499,49,female,white,45000,16,40,divorced,33,2,2,very happy
+1500,61,male,white,82500,16,52,married,34,2,4,very happy
+1511,56,male,white,82500,16,50,married,59,2,2,pretty happy
+1518,49,male,white,100000,18,44,married,74,0,2,very happy
+1519,23,female,white,45000,16,40,never married,61,0,1,very happy
+1520,42,male,white,67500,17,47,married,51,5,1,pretty happy
+1523,24,female,white,23750,14,55,never married,49,0,2,pretty happy
+1525,27,male,white,23750,13,40,never married,51,0,1,pretty happy
+1528,26,male,white,37500,16,50,divorced,52,1,1,very happy
+1530,51,female,white,32500,12,40,married,48,3,2,very happy
+1532,40,female,white,67500,20,30,married,51,3,2,very happy
+1535,39,male,white,45000,14,80,married,51,2,4,very happy
+1537,50,male,white,45000,17,40,married,68,2,2,pretty happy
+1539,36,female,white,21250,18,35,married,74,2,2,very happy
+1540,50,female,white,82500,16,60,married,68,2,2,pretty happy
+1544,48,male,white,67500,14,55,never married,51,0,1,pretty happy
+1551,31,female,white,32500,16,45,married,48,0,2,pretty happy
+1555,37,male,white,82500,12,60,married,50,3,2,not too happy
+1560,35,female,white,37500,15,40,divorced,60,2,1,very happy
+1562,32,male,white,55000,19,80,widowed,48,0,1,pretty happy
+1566,49,female,white,37500,14,60,widowed,53,0,1,pretty happy
+1567,56,male,white,55000,15,89,married,40,6,1,very happy
+1568,50,female,white,32500,12,45,married,54,8,1,pretty happy
+1574,47,female,white,27500,13,60,married,36,3,2,very happy
+1575,39,male,white,37500,12,64,never married,36,1,1,not too happy
+1579,54,male,white,23750,10,37,married,32,2,3,pretty happy
+1581,46,male,white,32500,11,50,married,45,0,2,pretty happy
+1588,48,female,white,23750,14,37,divorced,45,4,1,not too happy
+1589,43,female,white,23750,12,40,divorced,47,1,1,pretty happy
+1598,49,male,white,37500,12,40,married,51,2,2,pretty happy
+1601,56,male,white,27500,12,40,married,22,2,2,pretty happy
+1603,57,female,white,23750,12,50,married,34,2,2,very happy
+1612,49,male,white,45000,16,48,married,59,4,3,very happy
+1615,49,male,white,100000,12,89,married,30,2,2,pretty happy
+1616,47,male,white,21250,12,40,married,24,3,3,pretty happy
+1619,61,male,white,45000,12,56,married,40,4,3,not too happy
+1625,31,male,white,37500,12,32,married,50,2,2,very happy
+1627,41,male,white,45000,12,40,divorced,40,2,1,pretty happy
+1628,35,male,white,37500,14,40,never married,51,0,1,pretty happy
+1632,26,female,white,32500,12,40,married,44,0,2,very happy
+1633,34,female,white,55000,15,37,married,66,4,2,pretty happy
+1634,54,female,white,37500,12,40,married,31,1,2,pretty happy
+1636,26,male,white,23750,13,40,never married,23,0,2,not too happy
+1637,31,female,white,67500,18,40,married,33,1,2,very happy
+1642,47,male,white,27500,16,40,married,29,1,2,pretty happy
+1645,31,male,white,21250,11,40,married,34,2,2,pretty happy
+1648,52,male,white,45000,12,40,married,40,4,2,very happy
+1655,40,male,white,82500,12,80,married,50,3,2,pretty happy
+1657,65,male,white,140000,12,70,married,40,3,2,very happy
+1658,37,female,white,27500,12,40,divorced,37,3,1,pretty happy
+1661,47,male,white,32500,11,50,divorced,42,1,1,pretty happy
+1662,29,male,white,32500,16,48,married,40,1,2,pretty happy
+1663,53,male,white,45000,12,48,married,30,2,2,very happy
+1664,43,female,white,37500,12,40,married,51,2,4,pretty happy
+1666,64,female,white,23750,12,43,divorced,42,6,1,very happy
+1669,31,male,white,37500,15,42,never married,32,0,1,pretty happy
+1671,34,male,white,200000,20,50,married,27,1,2,very happy
+1672,47,female,white,32500,12,45,divorced,44,1,2,pretty happy
+1673,38,female,white,45000,15,42,divorced,47,2,1,very happy
+1674,47,female,black,45000,14,40,married,44,1,4,pretty happy
+1681,51,male,white,37500,12,89,married,60,1,2,not too happy
+1683,21,female,black,23750,11,40,never married,35,0,3,pretty happy
+1689,51,female,white,23750,12,48,separated,43,3,1,pretty happy
+1691,35,male,white,37500,12,44,married,54,3,2,pretty happy
+1698,44,female,white,27500,16,40,never married,34,2,2,pretty happy
+1703,49,female,white,32500,12,40,divorced,31,0,1,pretty happy
+1704,46,female,white,23750,13,40,married,31,2,2,pretty happy
+1729,44,male,white,120000,15,65,divorced,59,2,1,very happy
+1731,59,male,white,45000,12,40,married,23,4,1,very happy
+1735,47,male,white,120000,16,65,married,51,3,2,pretty happy
+1737,56,male,white,55000,12,50,married,38,1,2,pretty happy
+1738,41,male,white,120000,20,40,married,49,4,2,very happy
+1739,50,male,white,100000,12,40,married,74,2,3,pretty happy
+1742,44,male,white,200000,18,60,married,53,5,4,very happy
+1745,47,male,white,32500,12,47,divorced,34,2,1,not too happy
+1746,43,female,white,23750,12,40,married,46,1,1,very happy
+1752,41,female,white,23750,17,40,married,66,4,2,very happy
+1753,34,male,black,45000,14,75,divorced,30,2,1,pretty happy
+1756,22,male,white,23750,13,60,married,51,1,2,very happy
+1760,55,female,white,23750,15,48,married,60,2,2,pretty happy
+1769,52,male,white,32500,12,40,married,33,2,2,pretty happy
+1770,34,female,white,32500,12,40,married,57,3,2,pretty happy
+1772,53,female,white,21250,12,40,married,60,2,1,pretty happy
+1775,65,male,white,45000,12,50,married,51,2,2,pretty happy
+1777,36,male,white,67500,12,40,married,44,4,1,pretty happy
+1779,28,male,black,32500,11,40,never married,22,0,2,pretty happy
+1786,57,female,white,45000,18,40,never married,54,0,1,pretty happy
+1792,35,female,white,27500,13,40,married,65,1,2,pretty happy
+1800,34,female,white,55000,12,40,married,31,1,2,very happy
+1806,52,female,white,32500,16,40,married,33,1,2,very happy
+1807,41,male,white,45000,12,55,divorced,40,3,1,pretty happy
+1808,37,female,white,45000,15,43,divorced,60,3,1,not too happy
+1814,34,male,white,32500,12,40,married,59,0,1,pretty happy
+1816,35,male,white,32500,13,45,never married,31,0,1,very happy
+1818,37,male,other,23750,6,40,separated,35,0,1,very happy
+1819,28,female,other,23750,6,41,separated,44,2,2,not too happy
+1826,53,female,black,55000,14,48,widowed,66,2,1,pretty happy
+1836,39,female,white,27500,13,40,married,51,2,1,very happy
+1838,47,female,black,32500,12,40,divorced,40,3,3,not too happy
+1839,51,female,white,23750,13,50,married,34,1,2,very happy
+1840,26,female,white,32500,12,40,married,42,2,2,pretty happy
+1844,55,male,white,32500,12,40,married,54,3,2,not too happy
+1850,37,male,white,55000,19,56,never married,43,0,1,pretty happy
+1852,26,male,white,45000,13,36,never married,30,1,1,pretty happy
+1854,36,female,white,32500,18,40,divorced,51,1,1,pretty happy
+1856,57,male,white,45000,17,40,married,51,3,2,very happy
+1857,28,male,other,45000,16,40,married,43,1,2,pretty happy
+1859,28,male,white,45000,14,40,married,33,1,2,very happy
+1861,46,female,white,67500,16,52,married,66,5,3,pretty happy
+1862,41,male,white,23750,12,60,divorced,30,6,1,pretty happy
+1863,58,male,white,55000,10,52,married,35,2,2,very happy
+1868,54,male,white,37500,12,40,married,40,0,1,very happy
+1870,62,male,white,67500,12,80,married,51,3,1,very happy
+1871,28,female,white,32500,18,40,married,66,0,2,very happy
+1875,34,female,white,37500,12,45,married,51,1,2,very happy
+1876,65,male,white,32500,13,55,married,22,6,2,pretty happy
+1877,61,male,white,140000,12,65,married,48,5,2,pretty happy
+1879,55,male,white,32500,12,50,married,35,3,2,pretty happy
+1883,41,male,white,23750,12,40,divorced,35,1,2,pretty happy
+1884,49,male,white,67500,12,40,married,34,1,2,pretty happy
+1885,45,male,white,27500,12,40,divorced,30,2,1,pretty happy
+1886,32,male,white,37500,14,54,never married,47,0,2,very happy
+1887,38,male,white,45000,13,42,divorced,39,2,1,pretty happy
+1891,44,male,white,45000,11,50,married,51,0,2,pretty happy
+1902,35,female,white,67500,18,50,married,65,2,2,pretty happy
+1906,47,male,white,67500,16,68,married,50,4,2,very happy
+1910,32,female,white,23750,18,36,married,66,2,2,very happy
+1913,31,male,white,67500,14,40,never married,43,1,1,pretty happy
+1915,35,male,black,32500,16,35,married,47,3,2,very happy
+1917,53,female,white,21250,13,40,married,31,4,4,pretty happy
+1930,26,female,white,32500,16,40,never married,63,0,1,pretty happy
+1937,34,male,white,120000,15,50,divorced,36,2,1,pretty happy
+1940,51,male,white,21250,11,40,divorced,39,0,1,very happy
+1941,51,female,white,23750,12,48,never married,43,0,1,pretty happy
+1942,39,female,white,21250,12,40,divorced,35,3,1,not too happy
+1948,36,male,white,82500,17,40,married,61,4,2,pretty happy
+1951,43,male,white,82500,12,40,married,51,2,3,pretty happy
+1952,51,male,white,100000,12,50,married,31,3,5,very happy
+1956,55,female,white,45000,14,40,divorced,33,2,3,pretty happy
+1958,36,male,white,37500,12,60,married,44,3,1,pretty happy
+1960,62,male,white,32500,12,40,divorced,22,2,1,very happy
+1969,42,female,other,120000,18,40,married,66,3,3,very happy
+1971,50,female,white,23750,13,62,divorced,34,2,5,not too happy
+1976,37,female,white,82500,16,48,married,63,0,2,pretty happy
+1977,60,female,black,32500,12,35,divorced,57,3,1,pretty happy
+1979,34,male,white,82500,13,45,divorced,74,1,2,pretty happy
+1982,31,male,white,140000,16,40,divorced,41,0,1,pretty happy
+1994,53,female,white,32500,12,40,never married,31,0,1,pretty happy
+2000,49,male,white,82500,14,65,married,53,1,3,pretty happy
+2003,42,female,other,37500,16,40,married,66,2,2,very happy
+2005,38,male,black,23750,13,40,married,31,0,4,very happy
+2006,36,male,black,67500,18,40,never married,61,0,1,pretty happy
+2016,29,female,black,32500,15,40,never married,36,0,1,pretty happy
+2021,49,male,white,32500,12,55,divorced,44,4,2,pretty happy
+2022,54,female,white,27500,14,42,married,36,2,2,very happy
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
